@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cby3</string>
+    <string name="jump">跳转</string>
+    <string name="button2">查看</string>
+    <string name="button3">Button</string>
+    <string name="explain">解释</string>
+    <string name="title_activity_other">OtherActivity</string>
+    <string name="jump_back">Jump Back</string>
+</resources>
